@@ -9,6 +9,7 @@ psycopg2 = "*"
 python-dotenv = "*"
 gunicorn = "*"
 waitress = "*"
+validate-email = "*"
 
 [dev-packages]
 
